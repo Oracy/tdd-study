@@ -1,0 +1,1 @@
+module.exports = () => 'Mocha and Chai are cools!'
